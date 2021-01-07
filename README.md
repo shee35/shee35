@@ -12,4 +12,4 @@ Reach me at:
 
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:IIT2019032@iiita.ac.in)](mailto:IIT2019032@iiita.ac.in)
 
-* [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aarushi-a-ba611b196/)](https://www.linkedin.com/in/aarushi-a-ba611b196/)
+* [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aarushi-a-ba611b196/)](https://www.linkedin.com/in/aarushi-a-ba611b196/)
