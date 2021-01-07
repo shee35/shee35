@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarushi</h1>
+<h3 align="center">A sophomore at IIIT Allahabad</h3>
 
-<!--
-**xxx32/xxx32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on some mini projects in web and app developement
+- 🌱 I’m currently working on improving upon my DSA skills and some projects.
+- 👯 I  love to explore technology more and learn about their improvements.
+- 😊 I also have interest in AI and ML; will explore it soon.
+<br></br>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx32&show_icons=true&count_private=true&theme=dark" alt="Aarushi" /></p>
+Reach me at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:IIT2019032@iiita.ac.in)](mailto:IIT2019032@iiita.ac.in)
+
+* [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aarushi-a-ba611b196/)](https://www.linkedin.com/in/aarushi-a-ba611b196/)
