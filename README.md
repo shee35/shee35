@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarushi</h1>
 <h3 align="center">A sophomore at IIIT Allahabad</h3>
 
-- 🔭 I’m currently working on some mini projects in web and app developement
-- 🌱 I’m currently working on improving upon my DSA skills and some projects.
+- 🌱 I’m currently working on improving upon my DSA skills, along with some mini projects in web and app developement
 - 👯 I  love to explore technology more and learn about their improvements.
 - 😊 I also have interest in AI and ML; will explore it soon.
 <br></br>
