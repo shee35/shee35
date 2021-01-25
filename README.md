@@ -6,7 +6,7 @@
 - 😊 I also have interest in AI and ML; will explore it soon.
 <br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx32&show_icons=true&count_private=true&theme=dark" alt="Aarushi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shee35&show_icons=true&count_private=true&theme=dark" alt="Aarushi" /></p>
 Reach me at:
 
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:IIT2019032@iiita.ac.in)](mailto:IIT2019032@iiita.ac.in)
