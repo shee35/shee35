@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarushi</h1>
-<h3 align="center">A pre-final year student at IIIT Allahabad</h3>
+<h3 align="center">A final year student at IIIT Allahabad</h3>
  I  love to explore technology more and learn about their improvements.
 <br></br>
 
